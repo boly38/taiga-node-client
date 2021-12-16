@@ -1,4 +1,4 @@
-#Taiga node client
+# Taiga node client
 
 NodeJS [Taiga](https://www.taiga.io/) ReST client
 
@@ -10,6 +10,7 @@ NodeJS [Taiga](https://www.taiga.io/) ReST client
 - select user stories status
 - dry remove user stories by status
 - remove user stories by status
+- remove a user story by id
 
 ## Requirements
 
